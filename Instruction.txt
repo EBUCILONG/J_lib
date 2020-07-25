@@ -1,0 +1,7 @@
+To build and test, use the following shell command:
+mkdir build
+cd build
+cmake ../
+make
+cd ../
+./test.sh
