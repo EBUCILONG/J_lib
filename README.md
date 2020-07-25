@@ -8,7 +8,7 @@
     cd ../
     ./test.sh
 ## Directory Management
--core
+-core<br>
 --avl_node.hpp<br>
 --avl_tree.hpp<br>
 --binary_node.hpp<br>
