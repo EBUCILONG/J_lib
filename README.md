@@ -1,9 +1,19 @@
 # J_lib
 
-## To build and test the avl tree structure implemented on million scale continuous insertion on linux machine, use command:
-mkdir build
-cd build <br>
-cmake ../ <br>
-make <br>
-cd ../ <br>
-./test.sh <br>
+## Build and Test
+    mkdir build
+    cd build
+    cmake ../
+    make
+    cd ../
+    ./test.sh
+## Directory Management
+> core
+>> avl_node.hpp
+>> avl_tree.hpp
+>> binary_node.hpp
+>> binary_tree.hpp
+> apps
+>> test.cpp
+>> test_R.cpp
+
