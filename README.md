@@ -8,12 +8,12 @@
     cd ../
     ./test.sh
 ## Directory Management
->core
->>avl_node.hpp
->>avl_tree.hpp
->>binary_node.hpp
->>binary_tree.hpp
->apps
->>test.cpp
->>test_R.cpp
+-core
+--avl_node.hpp<br>
+--avl_tree.hpp<br>
+--binary_node.hpp<br>
+--binary_tree.hpp<br>
+-apps<br>
+--test.cpp<br>
+--test_R.cpp<br>
 
